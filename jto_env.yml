@@ -1,7 +1,6 @@
-name: jto_env
+name: jto-env
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - numpy=1.18.1
-  - pandas=1.0.1
+  -python=3.11
