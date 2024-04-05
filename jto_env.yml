@@ -7,4 +7,4 @@ dependencies:
   - pip=24.0
   - jupyter=1.0
   - pip:
-    - polars[all]=0.20
+    - polars[all]==0.20
