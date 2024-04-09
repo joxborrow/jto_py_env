@@ -7,48 +7,47 @@ This repo contains the environment file for the conda environment that I use for
 ### System & Environment
 
 - [pip](https://pip.pypa.io/en/stable/index.html)
-- [ipython](https://ipython.readthedocs.io/en/stable/)
-- [fsspec](https://filesystem-spec.readthedocs.io/en/latest/)
 - [jupyter](https://docs.jupyter.org/en/latest/)
-- [dotenv](https://saurabh-kumar.com/python-dotenv/)
+- [python-dotenv](https://saurabh-kumar.com/python-dotenv/)
 - [deltalake](https://delta-io.github.io/delta-rs/)
 - [pyarrow](https://arrow.apache.org/docs/python/index.html)
 
 ### Data Acquisition
 
-- requests
-- pyodbc
-- sqlalchemy
+- [requests](https://requests.readthedocs.io/en/latest/)
+- [pyodbc](https://github.com/mkleehammer/pyodbc/wiki)
+- [sqlalchemy](https://docs.sqlalchemy.org/en/20/)
 
 ### Data Munging
 
-- polars[all]
-- pandas
+- [polars[all]](https://docs.pola.rs/)
+- [pandas](https://pandas.pydata.org/docs/)
 
 ### EDA
 
-- pyskim
-- sweetviz
+- [pyskim](https://github.com/kpj/pyskim)
+- [dataprep](https://docs.dataprep.ai/)
 
 ### ML & Data Analytics
 
-- statsmodels
-- scipy
-- patsy
-- numpy
-- scikit-learn
-- igraph
-- networkx
+- [statsmodels](https://www.statsmodels.org/stable/index.html)
+- [scipy](https://docs.scipy.org/doc/scipy/)
+- [patsy](https://patsy.readthedocs.io/en/latest/)
+- [numpy](https://numpy.org/doc/)
+- [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+- [igraph](https://python.igraph.org/en/stable/)
+- [networkx](https://networkx.org/documentation/stable/)
+- [nltk](https://www.nltk.org/)
 
 ### Visualization & Reporting
 
-- altair
-- quarto
-- matplotlib
-- itables
-- seaborn
+- [altair](https://altair-viz.github.io/getting_started/overview.html)
+- [quarto](https://quarto.org/)
+- [matplotlib](https://matplotlib.org/stable/index.html)
+- [itables](https://mwouts.github.io/itables/quick_start.html#)
+- [seaborn](https://seaborn.pydata.org/)
 
 ### Misc
 
-- pillow
+- [pillow](https://seaborn.pydata.org/)
 
