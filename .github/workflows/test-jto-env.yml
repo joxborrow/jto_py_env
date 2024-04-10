@@ -28,4 +28,5 @@ jobs:
           environment-name: jto-env
           cache-downloads: true
       - run: conda list
-      - run: python -c "import rioxarray"
+      - run: python -c "import dataprep"
+      - run: python -c "import statsmodels"
