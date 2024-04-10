@@ -1,0 +1,31 @@
+name: Test jto-env on Mac, Linux, Windows
+
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  runtests:
+    name: conda (${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: ["ubuntu-latest", "macos-latest", "windows-latest"]
+    defaults:
+      run:
+        shell: bash -l {0}
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install conda envt w micromamba
+        uses: mamba-org/provision-with-micromamba@main
+        with:
+          environment-file: environment.yml
+          environment-name: jto-env
+          cache-downloads: true
+      - run: conda list
+      - run: python -c "import rioxarray"
