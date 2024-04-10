@@ -25,10 +25,7 @@ jobs:
         uses: conda-incubator/setup-miniconda@v3
         with:
           environment-file: environment.yml
-          environment-name: jto-env
           miniforge-version: latest
-          cache-environment: true
-          post-cleanup: 'all'
 #      - name: Conda List
 #      - run: conda list
 #      - run: python -c "import dataprep"
