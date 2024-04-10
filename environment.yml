@@ -39,6 +39,7 @@ dependencies:
   # Visualization & Reporting
   #################################################
   - altair
+  - bokeh
   - quarto
   - matplotlib
   - itables
