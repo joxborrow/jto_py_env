@@ -11,6 +11,7 @@ This repo contains the environment file for the conda environment that I use for
 - [python-dotenv](https://saurabh-kumar.com/python-dotenv/)
 - [deltalake](https://delta-io.github.io/delta-rs/)
 - [pyarrow](https://arrow.apache.org/docs/python/index.html)
+- [pylint](https://www.pylint.org/)
 
 ### Data Acquisition
 
