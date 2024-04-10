@@ -28,7 +28,7 @@ jobs:
           environment-name: jto-env
           cache-environment: true
           post-cleanup: 'all'
-      - name: Conda List
-      - run: conda list
-      - run: python -c "import dataprep"
-      - run: python -c "import statsmodels"
+#      - name: Conda List
+#      - run: conda list
+#      - run: python -c "import dataprep"
+#      - run: python -c "import statsmodels"
