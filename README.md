@@ -22,6 +22,7 @@ This repo contains the environment file for the conda environment that I use for
 
 - [polars[all]](https://docs.pola.rs/)
 - [pandas](https://pandas.pydata.org/docs/)
+- [snowflake-snowpark-python](https://docs.snowflake.com/en/developer-guide/snowpark/python/index)
 
 ### EDA
 
