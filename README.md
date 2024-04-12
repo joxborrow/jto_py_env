@@ -4,6 +4,9 @@ This repo contains the environment file for the conda environment that I use for
 
 ## Environment Documentation
 
+### Python Standard Library
+- [Standard Library](https://docs.python.org/3/library/index.html)
+
 ### System & Environment
 
 - [pip](https://pip.pypa.io/en/stable/index.html)
