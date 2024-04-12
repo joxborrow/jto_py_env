@@ -53,6 +53,7 @@ dependencies:
   - pillow
   - ffmpeg-python
   - xlsxwriter
+  - openpyxl
   #################################################
   - pip:
     - pyskim
