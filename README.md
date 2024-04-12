@@ -31,7 +31,7 @@ This repo contains the environment file for the conda environment that I use for
 ### EDA
 
 - [pyskim](https://github.com/kpj/pyskim)
-- [dataprep](https://docs.dataprep.ai/)
+- [sweetviz](https://github.com/fbdesignpro/sweetviz)
 
 ### ML & Data Analytics
 
