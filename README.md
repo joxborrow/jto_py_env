@@ -56,4 +56,5 @@ This repo contains the environment file for the conda environment that I use for
 
 - [pillow](https://seaborn.pydata.org/)
 - [filter](https://kkroening.github.io/ffmpeg-python/)
+- [xlsxwriter](https://xlsxwriter.readthedocs.io/)
 
