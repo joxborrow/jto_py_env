@@ -55,4 +55,5 @@ This repo contains the environment file for the conda environment that I use for
 ### Misc
 
 - [pillow](https://seaborn.pydata.org/)
+- [filter](https://kkroening.github.io/ffmpeg-python/)
 
