@@ -51,7 +51,7 @@ dependencies:
   # Misc
   #################################################
   - pillow
-  - python-ffmpeg
+  - ffmpeg-python
   #################################################
   - pip:
     - pyskim
