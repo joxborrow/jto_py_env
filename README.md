@@ -56,6 +56,8 @@ This repo contains the environment file for the conda environment that I use for
 
 - [mermaid-py](https://github.com/ouhammmourachid/mermaid-py)
     - [mermaid](https://mermaid.js.org/)
+- [graphviz](https://www.graphviz.org/)
+- [diagrams](https://diagrams.mingrammer.com/)
 
 ### Misc
 
