@@ -52,6 +52,11 @@ This repo contains the environment file for the conda environment that I use for
 - [itables](https://mwouts.github.io/itables/quick_start.html#)
 - [seaborn](https://seaborn.pydata.org/)
 
+### Diagrams, etc
+
+- [mermaid-py](https://github.com/ouhammmourachid/mermaid-py)
+    - [mermaid](https://mermaid.js.org/)
+
 ### Misc
 
 - [pillow](https://seaborn.pydata.org/)
