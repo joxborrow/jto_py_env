@@ -12,10 +12,11 @@ dependencies:
   - pyarrow
   - pylint
   #################################################
-  # Data Munging
+  # Data Munging & Validation
   #################################################
   - pandas
   - snowflake-snowpark-python
+  - pandera
   #################################################
   # Data Aquisition
   #################################################
@@ -34,6 +35,7 @@ dependencies:
   - patsy
   - numpy
   - scikit-learn
+  - sktime
   - igraph
   - networkx
   - nltk
