@@ -25,14 +25,14 @@ This repo contains the environment file for the conda environment that I use for
     - [lzma](https://docs.python.org/3/library/lzma.html#module-lzma)
     - [zipfile](https://docs.python.org/3/library/zipfile.html#module-zipfile)
     - [tarfile](https://docs.python.org/3/library/tarfile.html#module-tarfile)
-- Performance Management
-  - [timeit](https://docs.python.org/3/library/timeit.html#module-timeit)
-  - [profile](https://docs.python.org/3/library/profile.html#module-profile)
-  - [pstats](https://docs.python.org/3/library/profile.html#module-pstats)
-- Quality Control
-  - [doctest](https://docs.python.org/3/library/doctest.html#module-doctest)
-  - [unittest](https://docs.python.org/3/library/unittest.html#module-unittest)
-- [json](https://docs.python.org/3/library/json.html#module-json)
+  - Performance Management
+    - [timeit](https://docs.python.org/3/library/timeit.html#module-timeit)
+    - [profile](https://docs.python.org/3/library/profile.html#module-profile)
+    - [pstats](https://docs.python.org/3/library/profile.html#module-pstats)
+  - Quality Control
+    - [doctest](https://docs.python.org/3/library/doctest.html#module-doctest)
+    - [unittest](https://docs.python.org/3/library/unittest.html#module-unittest)
+  - [json](https://docs.python.org/3/library/json.html#module-json)
 
 ### System & Environment
 
@@ -49,11 +49,12 @@ This repo contains the environment file for the conda environment that I use for
 - [pyodbc](https://github.com/mkleehammer/pyodbc/wiki)
 - [sqlalchemy](https://docs.sqlalchemy.org/en/20/)
 
-### Data Munging
+### Data Munging & Validation
 
 - [polars[all]](https://docs.pola.rs/)
 - [pandas](https://pandas.pydata.org/docs/)
 - [snowflake-snowpark-python](https://docs.snowflake.com/en/developer-guide/snowpark/python/index)
+- [pandera](https://pandera.readthedocs.io/en/latest/)
 
 ### EDA
 
@@ -67,6 +68,7 @@ This repo contains the environment file for the conda environment that I use for
 - [patsy](https://patsy.readthedocs.io/en/latest/)
 - [numpy](https://numpy.org/doc/)
 - [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+- [sktime](https://www.sktime.net/en/latest/index.html)
 - [igraph](https://python.igraph.org/en/stable/)
 - [networkx](https://networkx.org/documentation/stable/)
 - [nltk](https://www.nltk.org/)
