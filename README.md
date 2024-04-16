@@ -16,7 +16,7 @@ This repo contains the environment file for the conda environment that I use for
   - [random](https://docs.python.org/3/library/random.html#module-random)
   - [statistics](https://docs.python.org/3/library/statistics.html#module-statistics)
   - [urllib.request](https://docs.python.org/3/library/urllib.request.html#module-urllib.request)
-  - [smtplib](https://docs.python.org/3/library/smtplib.html#module-smtplib[p
+  - [smtplib](https://docs.python.org/3/library/smtplib.html#module-smtplib)
   - [datetime](https://docs.python.org/3/library/datetime.html#module-datetime)
   - Data compression
     - [zlib](https://docs.python.org/3/library/zlib.html#module-zlib)
