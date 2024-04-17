@@ -94,4 +94,4 @@ This repo contains the environment file for the conda environment that I use for
 - [filter](https://kkroening.github.io/ffmpeg-python/)
 - [xlsxwriter](https://xlsxwriter.readthedocs.io/)
 - [openpyxl](https://openpyxl.readthedocs.io/en/stable/index.html)
-
+- [sympy](https://docs.sympy.org/latest/index.html)
