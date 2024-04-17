@@ -65,6 +65,7 @@ dependencies:
   - ffmpeg-python
   - xlsxwriter
   - openpyxl
+  - sympy
   #################################################
   - pip:
     - pyskim
