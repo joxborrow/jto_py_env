@@ -72,6 +72,7 @@ This repo contains the environment file for the conda environment that I use for
 - [igraph](https://python.igraph.org/en/stable/)
 - [networkx](https://networkx.org/documentation/stable/)
 - [nltk](https://www.nltk.org/)
+- [quantecon](https://quanteconpy.readthedocs.io/en/latest/)
 
 ### Visualization & Reporting
 
