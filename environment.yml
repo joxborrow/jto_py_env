@@ -49,6 +49,7 @@ dependencies:
   - matplotlib
   - itables
   - seaborn
+  - plotnine
   #################################################
   # GUIs and Webapps
   #################################################
