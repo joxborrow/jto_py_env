@@ -81,6 +81,7 @@ This repo contains the environment file for the conda environment that I use for
 - [matplotlib](https://matplotlib.org/stable/index.html)
 - [itables](https://mwouts.github.io/itables/quick_start.html#)
 - [seaborn](https://seaborn.pydata.org/)
+- [plotnine](https://plotnine.org/)
 
 ### Diagrams, etc
 
