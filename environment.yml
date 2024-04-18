@@ -39,6 +39,7 @@ dependencies:
   - igraph
   - networkx
   - nltk
+  - quantecon
   #################################################
   # Visualization & Reporting
   #################################################
