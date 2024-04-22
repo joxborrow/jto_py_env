@@ -77,9 +77,10 @@ This repo contains the environment file for the conda environment that I use for
 ### Visualization & Reporting
 
 - [altair](https://altair-viz.github.io/getting_started/overview.html)
+- [itables](https://mwouts.github.io/itables/quick_start.html#)
 - [quarto](https://quarto.org/)
 - [matplotlib](https://matplotlib.org/stable/index.html)
-- [itables](https://mwouts.github.io/itables/quick_start.html#)
+- [missingno](https://github.com/ResidentMario/missingno)
 - [seaborn](https://seaborn.pydata.org/)
 - [plotnine](https://plotnine.org/)
 - [patchworklib](https://github.com/ponnhide/patchworklib)
