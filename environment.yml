@@ -17,6 +17,7 @@ dependencies:
   - pandas
   - snowflake-snowpark-python
   - pandera
+  - miceforest
   #################################################
   # Data Aquisition
   #################################################
