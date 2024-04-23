@@ -51,10 +51,11 @@ This repo contains the environment file for the conda environment that I use for
 
 ### Data Munging & Validation
 
-- [polars[all]](https://docs.pola.rs/)
-- [pandas](https://pandas.pydata.org/docs/)
-- [snowflake-snowpark-python](https://docs.snowflake.com/en/developer-guide/snowpark/python/index)
-- [pandera](https://pandera.readthedocs.io/en/latest/)
+- [polars[all]](https://docs.pola.rs/) - Embarassingly parallel data munging
+- [pandas](https://pandas.pydata.org/docs/) - data munging
+- [snowflake-snowpark-python](https://docs.snowflake.com/en/developer-guide/snowpark/python/index) - data munging in Snowflake
+- [pandera](https://pandera.readthedocs.io/en/latest/) - data validation
+- [miceforest](https://miceforest.readthedocs.io/en/latest/) - Impute missing values
 
 ### EDA
 
