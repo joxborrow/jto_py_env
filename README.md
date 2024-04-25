@@ -58,25 +58,28 @@ This repo contains the environment file for the conda environment that I use for
 -   [pandera](https://pandera.readthedocs.io/en/latest/) - data validation
 -   [miceforest](https://miceforest.readthedocs.io/en/latest/) - Impute missing values
 
-### EDA
+### Exploratory Data Analysis (EDA)
 
--   [pyskim](https://github.com/kpj/pyskim)
--   [sweetviz](https://github.com/fbdesignpro/sweetviz)
+| Package                                             | Description                                                                                          |
+|------------|------------------------------------------------------------|
+| [pyskim](https://github.com/kpj/pyskim)             | a package for EDA at the commandline                                                                 |
+| [sweetviz](https://github.com/fbdesignpro/sweetviz) | an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA |
 
 ### Statistics, ML, & Data Analytics
 
-| Package                                                         | Description                                                                                                                    |
+| Package                                                                                                       | Description                                                                                                                                                                                                                              |
 |------------|------------------------------------------------------------|
-| [statsmodels](https://www.statsmodels.org/stable/index.html)    | Estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration |
-| [scipy](https://docs.scipy.org/doc/scipy/)                      | SciPy is a collection of mathematical algorithms and convenience functions                                                     |
-| [patsy](https://patsy.readthedocs.io/en/latest/)                | Package for describing statistical models and building design matrices                                                         |
-| [numpy](https://numpy.org/doc/)                                 | NumPy is the fundamental package for scientific computing in Python                                                            |
-| [scikit-learn](https://scikit-learn.org/stable/user_guide.html) | Simple and efficient tools for predictive data analysis, including ML                                                          |
-| [sktime](https://www.sktime.net/en/latest/index.html)           | A unified framework for machine learning with time series                                                                      |
-| [igraph](https://python.igraph.org/en/stable/)                  | A fast open source python library to analyze graphs/networks                                                                   |
-| [networkx](https://networkx.org/documentation/stable/)          | A python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.      |
-| [nltk](https://www.nltk.org/)                                   | A leading platform for building Python programs to work with human language data                                               |
-| [quantecon](https://quanteconpy.readthedocs.io/en/latest/)      | Open source python library for economic modeling                                                                               |
+| [statsmodels](https://www.statsmodels.org/stable/index.html)                                                  | Estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration                                                                                                           |
+| [scipy](https://docs.scipy.org/doc/scipy/)                                                                    | SciPy is a collection of mathematical algorithms and convenience functions                                                                                                                                                               |
+| — [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statsrefmanual "scipy.stats submodule") | This module contains a large number of probability distributions, summary and frequency statistics, correlation functions and statistical tests, masked statistics, kernel density estimation, quasi-Monte Carlo functionality, and more |
+| [patsy](https://patsy.readthedocs.io/en/latest/)                                                              | Package for describing statistical models and building design matrices                                                                                                                                                                   |
+| [numpy](https://numpy.org/doc/)                                                                               | NumPy is the fundamental package for scientific computing in Python                                                                                                                                                                      |
+| [scikit-learn](https://scikit-learn.org/stable/user_guide.html)                                               | Simple and efficient tools for predictive data analysis, including ML                                                                                                                                                                    |
+| [sktime](https://www.sktime.net/en/latest/index.html)                                                         | A unified framework for machine learning with time series                                                                                                                                                                                |
+| [igraph](https://python.igraph.org/en/stable/)                                                                | A fast open source python library to analyze graphs/networks                                                                                                                                                                             |
+| [networkx](https://networkx.org/documentation/stable/)                                                        | A python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.                                                                                                                |
+| [nltk](https://www.nltk.org/)                                                                                 | A leading platform for building Python programs to work with human language data                                                                                                                                                         |
+| [quantecon](https://quanteconpy.readthedocs.io/en/latest/)                                                    | Open source python library for economic modeling                                                                                                                                                                                         |
 
 ### Visualization & Reporting
 
