@@ -61,14 +61,14 @@ This repo contains the environment file for the conda environment that I use for
 ### Exploratory Data Analysis (EDA)
 
 | Package                                             | Description                                                                                          |
-|------------|------------------------------------------------------------|
+|---------------|---------------------------------------------------------|
 | [pyskim](https://github.com/kpj/pyskim)             | a package for EDA at the commandline                                                                 |
 | [sweetviz](https://github.com/fbdesignpro/sweetviz) | an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA |
 
 ### Statistics, ML, & Data Analytics
 
 | Package                                                                                                       | Description                                                                                                                                                                                                                              |
-|------------|------------------------------------------------------------|
+|---------------|---------------------------------------------------------|
 | [statsmodels](https://www.statsmodels.org/stable/index.html)                                                  | Estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration                                                                                                           |
 | [scipy](https://docs.scipy.org/doc/scipy/)                                                                    | SciPy is a collection of mathematical algorithms and convenience functions                                                                                                                                                               |
 | — [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statsrefmanual "scipy.stats submodule") | This module contains a large number of probability distributions, summary and frequency statistics, correlation functions and statistical tests, masked statistics, kernel density estimation, quasi-Monte Carlo functionality, and more |
