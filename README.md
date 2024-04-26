@@ -1,4 +1,5 @@
-# My Project
+My Project
+================
 
 # jto_py_env
 
@@ -9,45 +10,58 @@ use for adhoc analysis
 
 ### Python Standard Library
 
-\-[Standard Library](https://docs.python.org/3/library/index.html) -
-[os](https://docs.python.org/3/library/os.html#module-os) -
-[shutil](https://docs.python.org/3/library/shutil.html#module-shutil) -
-[glob](https://docs.python.org/3/library/glob.html#module-glob) -
-[sys](https://docs.python.org/3/library/sys.html#module-sys) -
-[argparse](https://docs.python.org/3/library/argparse.html#module-argparse) -
-[re](https://docs.python.org/3/library/re.html#module-re) -
-[math](https://docs.python.org/3/library/math.html#module-math) -
-[random](https://docs.python.org/3/library/random.html#module-random) -
-[statistics](https://docs.python.org/3/library/statistics.html#module-statistics) -
-[urllib.request](https://docs.python.org/3/library/urllib.request.html#module-urllib.request) -
-[smtplib](https://docs.python.org/3/library/smtplib.html#module-smtplib) -
-[datetime](https://docs.python.org/3/library/datetime.html#module-datetime) -
-Data compression -
-[zlib](https://docs.python.org/3/library/zlib.html#module-zlib) -
-[gzip](https://docs.python.org/3/library/gzip.html#module-gzip) -
-[bz2](https://docs.python.org/3/library/bz2.html#module-bz2) -
-[lzma](https://docs.python.org/3/library/lzma.html#module-lzma) -
-[zipfile](https://docs.python.org/3/library/zipfile.html#module-zipfile) -
-[tarfile](https://docs.python.org/3/library/tarfile.html#module-tarfile) -
-Performance Management -
-[timeit](https://docs.python.org/3/library/timeit.html#module-timeit) -
-[profile](https://docs.python.org/3/library/profile.html#module-profile) -
-[pstats](https://docs.python.org/3/library/profile.html#module-pstats) -
+#### [Standard Library](https://docs.python.org/3/library/index.html)
+
+| Module                                                                                        | Description |
+|-----------------------------------------------------------------------------------------------|-------------|
+| [os](https://docs.python.org/3/library/os.html#module-os)                                     |             |
+| [shutil](https://docs.python.org/3/library/shutil.html#module-shutil)                         |             |
+| [glob](https://docs.python.org/3/library/glob.html#module-glob)                               |             |
+| [sys](https://docs.python.org/3/library/sys.html#module-sys)                                  |             |
+| [argparse](https://docs.python.org/3/library/argparse.html#module-argparse)                   |             |
+| [re](https://docs.python.org/3/library/re.html#module-re)                                     |             |
+| [math](https://docs.python.org/3/library/math.html#module-math)                               |             |
+| [random](https://docs.python.org/3/library/random.html#module-random)                         |             |
+| [statistics](https://docs.python.org/3/library/statistics.html#module-statistics)             |             |
+| [urllib.request](https://docs.python.org/3/library/urllib.request.html#module-urllib.request) |             |
+| [smtplib](https://docs.python.org/3/library/smtplib.html#module-smtplib)                      |             |
+| [datetime](https://docs.python.org/3/library/datetime.html#module-datetime)                   |             |
+
+#### Data compression
+
+| Module                                                                   | Description |
+|--------------------------------------------------------------------------|-------------|
+| [zlib](https://docs.python.org/3/library/zlib.html#module-zlib)          |             |
+| [gzip](https://docs.python.org/3/library/gzip.html#module-gzip)          |             |
+| [bz2](https://docs.python.org/3/library/bz2.html#module-bz2)             |             |
+| [lzma](https://docs.python.org/3/library/lzma.html#module-lzma)          |             |
+| [zipfile](https://docs.python.org/3/library/zipfile.html#module-zipfile) |             |
+| [tarfile](https://docs.python.org/3/library/tarfile.html#module-tarfile) |             |
+
+#### Performance Management
+
+| Module                                                                   | Description |
+|--------------------------------------------------------------------------|-------------|
+| [timeit](https://docs.python.org/3/library/timeit.html#module-timeit)    |             |
+| [profile](https://docs.python.org/3/library/profile.html#module-profile) |             |
+| [pstats](https://docs.python.org/3/library/profile.html#module-pstats)   |             |
+
 Quality Control -
+
 [doctest](https://docs.python.org/3/library/doctest.html#module-doctest) -
 [unittest](https://docs.python.org/3/library/unittest.html#module-unittest) -
 [json](https://docs.python.org/3/library/json.html#module-json)
 
-# System & Environment
+### System & Environment
 
-| Package                                                    | Description |
-|------------------------------------------------------------|-------------|
-| [pip](https://pip.pypa.io/en/stable/index.html)            |             |
-| [jupyter](https://docs.jupyter.org/en/latest/)             |             |
-| [python-dotenv](https://saurabh-kumar.com/python-dotenv/)  |             |
-| [deltalake](https://delta-io.github.io/delta-rs/)          |             |
-| [pyarrow](https://arrow.apache.org/docs/python/index.html) |             |
-| [pylint](https://www.pylint.org/)                          |             |
+| Package                                                    | Description                                                                                                                                                                              |
+|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [pip](https://pip.pypa.io/en/stable/index.html)            | package installer for python                                                                                                                                                             |
+| [jupyter](https://docs.jupyter.org/en/latest/)             | interactive environment for computing                                                                                                                                                    |
+| [python-dotenv](https://saurabh-kumar.com/python-dotenv/)  | read key-value pairs from a `.env` file and can set them as environment variables                                                                                                        |
+| [deltalake](https://delta-io.github.io/delta-rs/)          | provides the capability to read, write, and manage [Delta Lake](https://delta.io/) tables                                                                                                |
+| [pyarrow](https://arrow.apache.org/docs/python/index.html) | A cross-language development platform for in-memory analytics                                                                                                                            |
+| [pylint](https://www.pylint.org/)                          | analyses your code without actually running it. It checks for errors, enforces a coding standard, looks for code smells, and can make suggestions about how the code could be refactored |
 
 ### Data Acquisition
 
@@ -76,82 +90,20 @@ Quality Control -
 
 ### Statistics, ML, & Data Analytics
 
-<table>
-<colgroup>
-<col style="width: 12%" />
-<col style="width: 87%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Package</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a
-href="https://www.statsmodels.org/stable/index.html">statsmodels</a></td>
-<td>Estimation of many different statistical models, as well as for
-conducting statistical tests, and statistical data exploration</td>
-</tr>
-<tr class="even">
-<td><a href="https://docs.scipy.org/doc/scipy/">scipy</a></td>
-<td><p>SciPy is a collection of mathematical algorithms and convenience
-functions</p>
-<p><a
-href="https://docs.scipy.org/doc/scipy/reference/stats.html#statsrefmanual">scipy.stats</a>
-- This module contains a large number of probability distributions,
-summary and frequency statistics, correlation functions and statistical
-tests, masked statistics, kernel density estimation, quasi-Monte Carlo
-functionality, and more. This is a supplement to the base packages <a
-href="https://docs.python.org/3/library/statistics.html#module-statistics">statistics</a>.</p>
-<p><a
-href="https://docs.scipy.org/doc/scipy/reference/linalg.html#module-scipy.linalg">scipy.linalg</a>
-- linear algebra library</p></td>
-</tr>
-<tr class="odd">
-<td><a href="https://patsy.readthedocs.io/en/latest/">patsy</a></td>
-<td>Package for describing statistical models and building design
-matrices</td>
-</tr>
-<tr class="even">
-<td><a href="https://numpy.org/doc/">numpy</a></td>
-<td>NumPy is the fundamental package for scientific computing in
-Python</td>
-</tr>
-<tr class="odd">
-<td><a
-href="https://scikit-learn.org/stable/user_guide.html">scikit-learn</a></td>
-<td>Simple and efficient tools for predictive data analysis, including
-ML</td>
-</tr>
-<tr class="even">
-<td><a
-href="https://www.sktime.net/en/latest/index.html">sktime</a></td>
-<td>A unified framework for machine learning with time series</td>
-</tr>
-<tr class="odd">
-<td><a href="https://python.igraph.org/en/stable/">igraph</a></td>
-<td>A fast open source python library to analyze graphs/networks</td>
-</tr>
-<tr class="even">
-<td><a
-href="https://networkx.org/documentation/stable/">networkx</a></td>
-<td>A python package for the creation, manipulation, and study of the
-structure, dynamics, and functions of complex networks.</td>
-</tr>
-<tr class="odd">
-<td><a href="https://www.nltk.org/">nltk</a></td>
-<td>A leading platform for building Python programs to work with human
-language data</td>
-</tr>
-<tr class="even">
-<td><a
-href="https://quanteconpy.readthedocs.io/en/latest/">quantecon</a></td>
-<td>Open source python library for economic modeling</td>
-</tr>
-</tbody>
-</table>
+| Module                                                          | Submodule                                                                                  | Description                                                                                                                                                                                                                                                                                                                                                            |
+|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [statsmodels](https://www.statsmodels.org/stable/index.html)    |                                                                                            | Estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration                                                                                                                                                                                                                                         |
+| [scipy](https://docs.scipy.org/doc/scipy/)                      |                                                                                            | SciPy is a collection of mathematical algorithms and convenience functions                                                                                                                                                                                                                                                                                             |
+|                                                                 | [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statsrefmanual)        | This module contains a large number of probability distributions, summary and frequency statistics, correlation functions and statistical tests, masked statistics, kernel density estimation, quasi-Monte Carlo functionality, and more. This is a supplement to the base packages [statistics](https://docs.python.org/3/library/statistics.html#module-statistics). |
+|                                                                 | [scipy.linalg](https://docs.scipy.org/doc/scipy/reference/linalg.html#module-scipy.linalg) | linear algebra library                                                                                                                                                                                                                                                                                                                                                 |
+| [patsy](https://patsy.readthedocs.io/en/latest/)                |                                                                                            | Package for describing statistical models and building design matrices                                                                                                                                                                                                                                                                                                 |
+| [numpy](https://numpy.org/doc/)                                 |                                                                                            | NumPy is the fundamental package for scientific computing in Python                                                                                                                                                                                                                                                                                                    |
+| [scikit-learn](https://scikit-learn.org/stable/user_guide.html) |                                                                                            | Simple and efficient tools for predictive data analysis, including ML                                                                                                                                                                                                                                                                                                  |
+| [sktime](https://www.sktime.net/en/latest/index.html)           |                                                                                            | A unified framework for machine learning with time series                                                                                                                                                                                                                                                                                                              |
+| [igraph](https://python.igraph.org/en/stable/)                  |                                                                                            | A fast open source python library to analyze graphs/networks                                                                                                                                                                                                                                                                                                           |
+| [networkx](https://networkx.org/documentation/stable/)          |                                                                                            | A python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.                                                                                                                                                                                                                                              |
+| [nltk](https://www.nltk.org/)                                   |                                                                                            | A leading platform for building Python programs to work with human language data                                                                                                                                                                                                                                                                                       |
+| [quantecon](https://quanteconpy.readthedocs.io/en/latest/)      |                                                                                            | Open source python library for economic modeling                                                                                                                                                                                                                                                                                                                       |
 
 ### Visualization & Reporting
 
