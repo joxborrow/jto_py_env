@@ -46,11 +46,13 @@ use for adhoc analysis
 | [profile](https://docs.python.org/3/library/profile.html#module-profile) |             |
 | [pstats](https://docs.python.org/3/library/profile.html#module-pstats)   |             |
 
-Quality Control -
+#### Quality Control
 
-[doctest](https://docs.python.org/3/library/doctest.html#module-doctest) -
-[unittest](https://docs.python.org/3/library/unittest.html#module-unittest) -
-[json](https://docs.python.org/3/library/json.html#module-json)
+| Module                                                                      | Description |
+|-----------------------------------------------------------------------------|-------------|
+| [doctest](https://docs.python.org/3/library/doctest.html#module-doctest)    |             |
+| [unittest](https://docs.python.org/3/library/unittest.html#module-unittest) |             |
+| [json](https://docs.python.org/3/library/json.html#module-json)             |             |
 
 ### System & Environment
 
@@ -131,3 +133,5 @@ Quality Control -
 - [openpyxl](https://openpyxl.readthedocs.io/en/stable/index.html)
 - [sympy](https://docs.sympy.org/latest/index.html)
 - [ffmpeg-python](https://kkroening.github.io/ffmpeg-python/)
+
+\* Part of the python standard library
