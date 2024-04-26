@@ -14,7 +14,7 @@ This repo contains the environment file for the conda environment that I use for
 #### [Standard Library](https://docs.python.org/3/library/index.html)
 
 | Module                                                                                        | Description |
-|------------------|------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | [os](https://docs.python.org/3/library/os.html#module-os)                                     |             |
 | [shutil](https://docs.python.org/3/library/shutil.html#module-shutil)                         |             |
 | [glob](https://docs.python.org/3/library/glob.html#module-glob)                               |             |
@@ -31,7 +31,7 @@ This repo contains the environment file for the conda environment that I use for
 #### Data compression
 
 | Module                                                                   | Description |
-|------------------|------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | [zlib](https://docs.python.org/3/library/zlib.html#module-zlib)          |             |
 | [gzip](https://docs.python.org/3/library/gzip.html#module-gzip)          |             |
 | [bz2](https://docs.python.org/3/library/bz2.html#module-bz2)             |             |
@@ -42,19 +42,23 @@ This repo contains the environment file for the conda environment that I use for
 #### Performance Management
 
 | Module                                                                   | Description |
-|--------------------------------------------------------------------------|-------------|
+|---------------------------------------------------------|---------------|
 | [timeit](https://docs.python.org/3/library/timeit.html#module-timeit)    |             |
 | [profile](https://docs.python.org/3/library/profile.html#module-profile) |             |
 | [pstats](https://docs.python.org/3/library/profile.html#module-pstats)   |             |
 
-Quality Control -
+#### Quality Control
 
-[doctest](https://docs.python.org/3/library/doctest.html#module-doctest) - [unittest](https://docs.python.org/3/library/unittest.html#module-unittest) - [json](https://docs.python.org/3/library/json.html#module-json)
+| Module                                                                       | Description |
+|------------------------------------------------------------------------------|-------------|
+| [doctest](https://docs.python.org/3/library/doctest.html#module-doctest)     |             |
+| [unittest](https://docs.python.org/3/library/unittest.html#module-unittest)  |             |
+| [json](https://docs.python.org/3/library/json.html#module-json)              |             |
 
 ### System & Environment
 
 | Package                                                    | Description                                                                                                                                                                              |
-|------------------|------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | [pip](https://pip.pypa.io/en/stable/index.html)            | package installer for python                                                                                                                                                             |
 | [jupyter](https://docs.jupyter.org/en/latest/)             | interactive environment for computing                                                                                                                                                    |
 | [python-dotenv](https://saurabh-kumar.com/python-dotenv/)  | read key-value pairs from a `.env` file and can set them as environment variables                                                                                                        |
@@ -65,7 +69,7 @@ Quality Control -
 ### Data Acquisition
 
 | Package                                                | Description                                                                                                             |
-|-------------------|-----------------------------------------------------|
+|--------------------|----------------------------------------------------|
 | [requests](https://requests.readthedocs.io/en/latest/) | an elegant and simple HTTP library for Python, built for human beings                                                   |
 | [pyodbc](https://github.com/mkleehammer/pyodbc/wiki)   | an open source Python module that makes accessing ODBC databases simple                                                 |
 | [sqlalchemy](https://docs.sqlalchemy.org/en/20/)       | Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL |
@@ -73,7 +77,7 @@ Quality Control -
 ### Data Munging & Validation
 
 | Package                                                                                          | Description                         |
-|-------------------|-------------------------|
+|-------------------------------|-----------------------------------------|
 | [polars\[all\]](https://docs.pola.rs/)                                                           | Embarassingly parallel data munging |
 | [pandas](https://pandas.pydata.org/docs/)                                                        | data munging                        |
 | [snowflake-snowpark-python](https://docs.snowflake.com/en/developer-guide/snowpark/python/index) | data munging in Snowflake           |
@@ -90,7 +94,7 @@ Quality Control -
 ### Statistics, ML, & Data Analytics
 
 | Module                                                          | Submodule                                                                                  | Description                                                                                                                                                                                                                                                                                                                                                            |
-|------------------|---------|------------------------------------|
+|------------------|----------------|--------------------------------------|
 | [statsmodels](https://www.statsmodels.org/stable/index.html)    |                                                                                            | Estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration                                                                                                                                                                                                                                         |
 | [scipy](https://docs.scipy.org/doc/scipy/)                      |                                                                                            | SciPy is a collection of mathematical algorithms and convenience functions                                                                                                                                                                                                                                                                                             |
 |                                                                 | [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statsrefmanual)        | This module contains a large number of probability distributions, summary and frequency statistics, correlation functions and statistical tests, masked statistics, kernel density estimation, quasi-Monte Carlo functionality, and more. This is a supplement to the base packages [statistics](https://docs.python.org/3/library/statistics.html#module-statistics). |
@@ -130,3 +134,5 @@ Quality Control -
 -   [openpyxl](https://openpyxl.readthedocs.io/en/stable/index.html)
 -   [sympy](https://docs.sympy.org/latest/index.html)
 -   [ffmpeg-python](https://kkroening.github.io/ffmpeg-python/)
+
+\* Part of the python standard library
