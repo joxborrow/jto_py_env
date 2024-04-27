@@ -1,4 +1,4 @@
-name: jto-env
+name: my-py-env
 channels:
   - conda-forge
 dependencies:
@@ -19,7 +19,7 @@ dependencies:
   - pandera
   - miceforest
   #################################################
-  # Data Aquisition
+  # Data Acquisition
   #################################################
   - requests
   - pyodbc
@@ -77,4 +77,4 @@ dependencies:
     - pyskim
     - polars[all]
 
-prefix: /home/jonathan/miniforge3/envs/jto-env
+prefix: /home/jonathan/miniforge3/envs/my-py-env
