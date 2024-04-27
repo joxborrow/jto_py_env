@@ -2,7 +2,7 @@
 # MY-PY-ENV
 
 A long time ago in a galaxy far, far away there were
-statistical/programming packges where individual packages did not need
+statistical/programming packages where individual packages did not need
 to be individually installed and loaded. This environment file is meant
 to be a collection of common packages for analysis and data science.
 This README is meant to be the manual, linking to the documentation for
@@ -128,16 +128,19 @@ added, please feel free to submit a pull request.
 | [missingno](https://github.com/ResidentMario/missingno)              | A small toolset of flexible and easy-to-use missing data visualizations and utilities                                                                     |
 | [quarto](https://quarto.org/)                                        | An open-source scientific and technical publishing system                                                                                                 |
 
-### Diagrams, etc
+### Diagrams and Technical Drawings
 
-- [mermaid-py](https://github.com/ouhammmourachid/mermaid-py)
-  - [mermaid](https://mermaid.js.org/)
-- [graphviz](https://www.graphviz.org/)
-- [diagrams](https://diagrams.mingrammer.com/)
+| Modules                                                     | Description                                                                                                                                                                                         |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [mermaid-py](https://github.com/ouhammmourachid/mermaid-py) | an interface for the famous [mermaid-js](https://mermaid.js.org/) library that uses scripts to create diagrams                                                                                      |
+| [graphviz](https://github.com/xflr6/graphviz)               | Facilitates the creation and rendering of graph descriptions in the [DOT](https://www.graphviz.org/doc/info/lang.html) language of the [Graphviz](https://www.graphviz.org/) graph drawing software |
+| [diagrams](https://diagrams.mingrammer.com/)                | Draw the cloud system architecture in Python code.                                                                                                                                                  |
 
 ### Image & Video
 
-- [pillow](https://seaborn.pydata.org/)
-- [ffmpeg-python](https://kkroening.github.io/ffmpeg-python/)
+| Modules                                                     | Description                                                    |
+|-------------------------------------------------------------|----------------------------------------------------------------|
+| [pillow](https://pillow.readthedocs.io/en/stable/)          | adds image processing capabilities to your Python interpreter. |
+| [ffmpeg-python](https://kkroening.github.io/ffmpeg-python/) | Use ffmpeg from python.                                        |
 
 \* Part of the python standard library
